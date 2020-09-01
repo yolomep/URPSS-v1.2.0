@@ -8,10 +8,15 @@ copy the java files and create them in the right packages
 Game.java is a test run, don't run it.
 src
 -gameRunner
+
   -3files
+  
 -Move
+
   -2files
+  
  -playersettings
+ 
   -3files
   
   * Names of all moves:
