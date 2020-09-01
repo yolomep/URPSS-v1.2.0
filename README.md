@@ -4,8 +4,20 @@ This is the gold league update, version control
 Please do understand that some files are weird
 If you want to download files,
 copy the java files and create them in the right packages
+This is mostly functions as an archive to older versions of Ultimate Rock Paper Scissor Shoot.
+I have earlier versions of this, but private since it has way too much bugs.
+I'm pretty sure this version has just as many, but I didn't spot any yet.
+Read the about in the game to know a little more about how to play.
+It was mainly made for me and to share with my friends.
+
+I made this public because this is the version where the first beginner's league is completed.
+This should have been version 1.0.0
+Idk why I have a long list of what I did.
+Just disregard if you aren't me reading this.
 
 Game.java is a test run, don't run it.
+
+
 src
 -gameRunner
 
