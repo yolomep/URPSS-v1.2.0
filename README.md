@@ -15,6 +15,9 @@ This should have been version 1.0.0
 Idk why I have a long list of what I did.
 Just disregard if you aren't me reading this.
 
+I was considering archiving this, but I thought I might make more updates
+idk. 
+
 Game.java is a test run, don't run it.
 
 
