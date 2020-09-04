@@ -20,19 +20,21 @@ idk.
 
 Game.java is a test run, don't run it.
 
-
+Graph of code:
+-
 src
--gameRunner
 
-  -3files
-  
--Move
+*gameRunner*
 
-  -2files
+    -3files
   
- -playersettings
+*Move*
+
+    -2files
+  
+*playersettings*
  
-  -3files
+    -3files
   
   * Names of all moves:
  * "Scissors", "attack", 1, 0
