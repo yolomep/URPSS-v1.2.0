@@ -1,5 +1,5 @@
 /**
- * 
+ * Everything is commented out because it shouldn't work
  */
 package gameRunner;
 //import java.util.*;
@@ -13,7 +13,7 @@ package gameRunner;
 //import Move.Move;
 //import playersettings.Player;
 /**
- * @author admin
+ * @author Yolomep
  *
  */
 public class Game {
