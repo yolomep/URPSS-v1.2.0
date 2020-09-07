@@ -6,6 +6,12 @@ import Move.Move;
 import playersettings.Player;
 
 import java.io.*;
+/**
+ *
+ * @author Yolomep
+ * if you spin off this game, please give credit to original author
+ * even if this code is pretty ugly
+ */
 public class FullGame {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
@@ -876,7 +882,7 @@ public class FullGame {
 			else if(input == 7) {
 				//idk why I have this as elif. Probably so I can add more. 
 				System.out.println("\tURPSS");
-				System.out.println("    Version ß 0.3");
+				System.out.println("    Version ÃŸ 0.3");
 				System.out.println("DEVELOPED BY T.J. CODES");
 				System.out.println("About this game: \nCredits to RL for idea\n");
 				System.out.println("PRESS ENTER: ");
