@@ -18,7 +18,11 @@ Just disregard if you aren't me reading this.
 I was considering archiving this, but I thought I might make more updates
 idk. 
 
-Game.java is a test run, don't run it.
+I'm the author, even though the code is kind of ugly. It's more for me to see older version, as this is the newest working version of the game
+As of 9/6/2020, the newest version is 1.4.0 but it doesn't really work
+Please give me credit for making this. Check out credit page for more (still WIP)
+ 
+Game.java is a test run, don't run it. It shouldn't run anyways. I'm pretty sure it could compile though. 
 
 Graph of code:
 -
