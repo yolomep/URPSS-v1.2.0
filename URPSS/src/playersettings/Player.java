@@ -6,8 +6,10 @@ import Move.*;
 import java.util.*;
 
 /**
- * @author admin
  *
+ * @author Yolomep
+ * if you spin off this game, please give credit to original author
+ * even if this code is pretty ugly
  */
 public class Player {
 	int maxHp, xp, level, nextXp;
