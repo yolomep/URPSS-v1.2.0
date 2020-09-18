@@ -10,6 +10,10 @@ I'm pretty sure this version has just as many, but I didn't spot any yet.
 Read the about in the game to know a little more about how to play.
 It was mainly made for me and to share with my friends.
 
+This version is fully playable with minimal bugs (find list in newer versions).
+The folder URPSS is an eclipse project, so import it to eclipse to run.
+Main class is gameRunner.FullGame
+
 I made this public because this is the version where the first beginner's league is completed.
 This should have been version 1.0.0
 Idk why I have a long list of what I did.
