@@ -19,7 +19,8 @@ I was considering archiving this, but I thought I might make more updates
 idk. 
 
 I'm the author, even though the code is kind of ugly. It's more for me to see older version, as this is the newest working version of the game
-As of 9/6/2020, the newest version is 1.4.0 but it doesn't really work
+As of 9/18/2020, the newest version is 1.5.1
+
 Please give me credit for making this. Check out credit page for more (still WIP)
 
 Even if you don't see an author tag or the author is admin, its still me
